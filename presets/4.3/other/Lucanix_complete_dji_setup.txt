@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OTHER
-#$ STATUS: OFFICIAL
+#$ STATUS: CUSTOM
 #$ KEYWORDS:  basic, Setup
 #$ AUTHOR: sugarK
 #$ DESCRIPTION: Basic Setup for Digital DJI KWADS Lucanix
