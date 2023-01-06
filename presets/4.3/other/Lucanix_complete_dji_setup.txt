@@ -6,8 +6,6 @@
 #$ KEYWORDS:  basic, Setup
 #$ AUTHOR: sugarK
 #$ DESCRIPTION: Basic Setup for Digital DJI KWADS Lucanix
-#$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/110
-#$ INCLUDE: presets/4.3/other/reset_blackbox.txt
 
 
 #$ OPTION BEGIN (UNCHECKED): idle up switch
